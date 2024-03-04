@@ -13,7 +13,7 @@ import pymysql
 import yaml
 
 url = 'https://news.sina.com.cn/roll/'
-configPath = './DatabaseConfig.yaml'
+configPath = './Config.yaml'
 page_num = 1
 
 insert_sql = f"""INSERT INTO `news`(`title`, `time`, `source`, `text`, `category`)

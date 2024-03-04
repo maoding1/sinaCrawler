@@ -16,7 +16,7 @@ def getConfig(path):
         return result
 
 if __name__ == '__main__':
-    path = './DatabaseConfig.yaml'
+    path = 'Config.yaml'
     config = getConfig(path)
     # print(config)
 
