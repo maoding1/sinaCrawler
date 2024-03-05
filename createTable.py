@@ -22,10 +22,10 @@ if __name__ == '__main__':
 
     # Open database connection
     db = pymysql.connect(
-        host = config['host'],
-        user = config['user'],
-        password = config['password'],
-        database=config['database']
+        host=config['database']['host'],
+        user=config['database']['user'],
+        password=config['database']['password'],
+        database=config['database']['databaseName']
     )
 
     # prepare a cursor object using cursor() method

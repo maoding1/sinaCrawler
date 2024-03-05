@@ -53,7 +53,10 @@ def get_detailed_page(url, cursor):
     try:
         title = driver.find_element(By.CLASS_NAME, 'main-title').text
         time = driver.find_element(By.CLASS_NAME, 'date').text
-        source = driver.find_element(By.CLASS_NAME, 'source.ent-source').text
+        try :
+            source = driver.find_element(By.CLASS_NAME, 'source.ent-source').text
+        except:
+            source = driver.find_element(By.CLASS_NAME, 'source').text
         text = driver.find_element(By.CLASS_NAME, 'article').text
         cursor.execute(insert_sql, (title, time, source, text))
 
@@ -79,10 +82,14 @@ if __name__ == '__main__':
     news_detail_urls = []
     driver.get(url)
     for i in range(page_num):
+        time.sleep(1)
         news_li_lists = driver.find_elements(By.XPATH, news_li_xpath)
         encounter_crawled_data = False
         for news in news_li_lists:
-            news_url = news.find_element(By.XPATH, title_xpath).get_attribute('href')
+            try:
+                news_url = news.find_element(By.XPATH, title_xpath).get_attribute('href')
+            except:
+                news_url = news.find_element(By.XPATH, './a[2]').get_attribute('href')
             if redis_client.sismember('urls', news_url):
                 print(f"遇到已爬取过的url: {news_url} ！")
                 encounter_crawled_data = True
@@ -101,6 +108,7 @@ if __name__ == '__main__':
     cursor = db.cursor()
 
     count = 0
+    print(f"准备爬取{len(news_detail_urls)}条新闻")
     for url in news_detail_urls:
         get_detailed_page(url, cursor)
         count += 1
