@@ -14,7 +14,7 @@ import yaml
 
 url = 'https://news.sina.com.cn/roll/'
 configPath = './Config.yaml'
-page_num = 1
+page_num = 50
 
 insert_sql = f"""INSERT INTO `news`(`title`, `time`, `source`, `text`, `category`)
                         VALUES (%s,%s,%s,%s,NULL)"""
