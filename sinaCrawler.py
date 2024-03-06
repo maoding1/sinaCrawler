@@ -39,13 +39,6 @@ def getdb(config):
     )
     return db
 
-def getRedisClient(config):
-    redis_client = redis.Redis(
-        host=config['redis']['host'],
-        port=config['redis']['port'],
-        db=config['redis']['db']
-    )
-    return redis_client
 
 def get_detailed_page(url, cursor):
     # print(url)
@@ -58,12 +51,15 @@ def get_detailed_page(url, cursor):
         except:
             source = driver.find_element(By.CLASS_NAME, 'source').text
         text = driver.find_element(By.CLASS_NAME, 'article').text
-        cursor.execute(insert_sql, (title, time, source, text))
-
-
+        try:
+            cursor.execute(insert_sql, (title, time, source, text))
+        except pymysql.IntegrityError:
+            print("数据库中已存在相同title,停止爬取")
+            return False
     except:
         traceback.print_exc()
         sys.stderr.write(f"wrong url , please check:{url}\n")
+    return True
 
 if __name__ == '__main__':
     options = Options()
@@ -77,7 +73,6 @@ if __name__ == '__main__':
     service = Service(executable_path=config['driver_path'])
     driver = webdriver.Edge(service=service, options=options)
 
-    redis_client = getRedisClient(config)
 
     news_detail_urls = []
     driver.get(url)
@@ -90,13 +85,7 @@ if __name__ == '__main__':
                 news_url = news.find_element(By.XPATH, title_xpath).get_attribute('href')
             except:
                 news_url = news.find_element(By.XPATH, './a[2]').get_attribute('href')
-            if redis_client.sismember('urls', news_url):
-                print(f"遇到已爬取过的url: {news_url} ！")
-                encounter_crawled_data = True
-                break
-            else:
-                redis_client.sadd('urls', news_url)
-                news_detail_urls.append(news_url)
+            news_detail_urls.append(news_url)
         if encounter_crawled_data:
             break
         wait = WebDriverWait(driver, 10)  # 10秒内每隔500毫秒扫描1次页面变化，当出现指定的元素后结束。
@@ -110,7 +99,8 @@ if __name__ == '__main__':
     count = 0
     print(f"准备爬取{len(news_detail_urls)}条新闻")
     for url in news_detail_urls:
-        get_detailed_page(url, cursor)
+        if get_detailed_page(url, cursor) == False:
+            break
         count += 1
         if count % 20 == 0:
             print(f"已爬取{count}条新闻")

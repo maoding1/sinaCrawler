@@ -3,7 +3,7 @@ import yaml
 
 sql = """CREATE TABLE news (
   id INT AUTO_INCREMENT PRIMARY KEY,
-  title VARCHAR(255) NOT NULL,
+  title VARCHAR(255) NOT NULL Unique,
   time VARCHAR(255) NOT NULL,
   source VARCHAR(255) NOT NULL,
   text TEXT NOT NULL,

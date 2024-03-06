@@ -1,12 +1,8 @@
 database:
-  host: localhost
+  host: 111.229.200.183
   user: root
-  password: '221205MD'
+  password: 'Sunguyi123'
   databaseName: prism
 
-redis:
-  host: localhost
-  port: 6379
-  db: 0
 
 driver_path: './msedgedriver.exe'
