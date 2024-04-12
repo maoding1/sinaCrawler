@@ -3,6 +3,7 @@ import redis
 import sys
 
 from selenium import webdriver
+from selenium.common import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
@@ -14,7 +15,7 @@ import yaml
 
 url = 'https://news.sina.com.cn/roll/'
 configPath = './Config.yaml'
-page_num = 50
+page_num = 1
 
 insert_sql = f"""INSERT INTO `news`(`title`, `time`, `source`, `text`, `category`)
                         VALUES (%s,%s,%s,%s,NULL)"""
@@ -40,9 +41,12 @@ def getdb(config):
     return db
 
 
-def get_detailed_page(url, cursor):
+def get_detailed_page(url, cursor, db):
     # print(url)
-    driver.get(url)
+    try:
+        driver.get(url)
+    except TimeoutException:
+        print("timeout, skipping")
     try:
         title = driver.find_element(By.CLASS_NAME, 'main-title').text
         time = driver.find_element(By.CLASS_NAME, 'date').text
@@ -59,6 +63,10 @@ def get_detailed_page(url, cursor):
     except:
         traceback.print_exc()
         sys.stderr.write(f"wrong url , please check:{url}\n")
+    try:
+        db.commit()
+    except:
+        db.rollback()
     return True
 
 if __name__ == '__main__':
@@ -72,7 +80,7 @@ if __name__ == '__main__':
     config = getConfig(configPath)
     service = Service(executable_path=config['driver_path'])
     driver = webdriver.Edge(service=service, options=options)
-
+    driver.set_page_load_timeout(100)
 
     news_detail_urls = []
     driver.get(url)
@@ -99,16 +107,12 @@ if __name__ == '__main__':
     count = 0
     print(f"准备爬取{len(news_detail_urls)}条新闻")
     for url in news_detail_urls:
-        if get_detailed_page(url, cursor) == False:
+        if get_detailed_page(url, cursor, db) == False:
             break
         count += 1
         if count % 20 == 0:
             print(f"已爬取{count}条新闻")
     print(f"爬取结束， 共爬取{count}条新闻！")
-    try:
-        db.commit()
-    except:
-        db.rollback()
 
     # with open(json_path, 'w', encoding='utf-8') as file:
     #     json.dump(news_list, file, indent=4, ensure_ascii=False)
