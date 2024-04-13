@@ -1,2 +1,4 @@
 .idea
-msedgedriver.exe
+msedgedriver
+THUCNews/saved_dict/*
+__pycache__/

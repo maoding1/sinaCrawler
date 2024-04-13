@@ -1,5 +1,3 @@
-import json
-import redis
 import sys
 
 from selenium import webdriver
@@ -12,19 +10,20 @@ import time
 import traceback
 import pymysql
 import yaml
+from eval import NewsClassifier
 
 url = 'https://news.sina.com.cn/roll/'
-configPath = './Config.yaml'
+configPath = '/root/sinaCrawler/Config.yaml'
 page_num = 1
 
 insert_sql = f"""INSERT INTO `news`(`title`, `time`, `source`, `text`, `category`)
-                        VALUES (%s,%s,%s,%s,NULL)"""
+                        VALUES (%s,%s,%s,%s,%s)"""
 
 news_li_xpath = "/html/body/div[1]/div[1]/div[2]/div[3]/div[2]/div//li"
 title_xpath = "./span[2]/a"
 next_page_xpath = '/html/body/div[1]/div[1]/div[2]/div[3]/div[2]/div/div/span[last()]'
 
-
+classifier = NewsClassifier()
 
 def getConfig(path):
     with open(path, 'r', encoding='utf-8') as f:
@@ -36,7 +35,8 @@ def getdb(config):
         host=config['database']['host'],
         user=config['database']['user'],
         password=config['database']['password'],
-        database=config['database']['databaseName']
+        database=config['database']['databaseName'],
+        charset='utf8mb4'
     )
     return db
 
@@ -55,10 +55,12 @@ def get_detailed_page(url, cursor, db):
         except:
             source = driver.find_element(By.CLASS_NAME, 'source').text
         text = driver.find_element(By.CLASS_NAME, 'article').text
+        category = classifier.classify(title)
         try:
-            cursor.execute(insert_sql, (title, time, source, text))
+            cursor.execute(insert_sql, (title, time, source, text, category))
         except pymysql.IntegrityError:
-            print("数据库中已存在相同title,停止爬取")
+            print("title:", title)
+            print("数据库中已存在相同title,跳过")
             return False
     except:
         traceback.print_exc()
@@ -108,7 +110,7 @@ if __name__ == '__main__':
     print(f"准备爬取{len(news_detail_urls)}条新闻")
     for url in news_detail_urls:
         if get_detailed_page(url, cursor, db) == False:
-            break
+            continue
         count += 1
         if count % 20 == 0:
             print(f"已爬取{count}条新闻")

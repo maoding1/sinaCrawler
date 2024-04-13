@@ -1,0 +1,1252 @@
+Sat 13 Apr 2024 02:18:01 AM CST
+准备爬取50条新闻
+title: 午盘：美股维持跌势 市场关注通胀与地缘政治风险
+数据库中已存在相同title,跳过
+title: 日本股市火了，金融圈也跟着火了，路演忙不迭
+数据库中已存在相同title,跳过
+title: 欧股多数收跌 欧洲斯托克50指数跌0.33%
+数据库中已存在相同title,跳过
+title: 3月社融增速下行，信贷均衡投放是重点
+数据库中已存在相同title,跳过
+title: 控股股东3.42亿元债务被转让 贝因美称目前不会引发控制权变更
+数据库中已存在相同title,跳过
+title: 前美联储主席伯南克建议英国央行向市场提供更明确的利率指引
+数据库中已存在相同title,跳过
+title: 美联储今年最多降息两次！全球最大资管CEO警告
+数据库中已存在相同title,跳过
+title: 年内已累涨四成！这一农产品连日刷新高 或复制可可的逆天行情
+数据库中已存在相同title,跳过
+title: Q1净息差环比缩减4% 摩根大通跌超5.7%
+数据库中已存在相同title,跳过
+title: 北交所：拟新增成交量退市指标，连续120个交易日累计成交量低于100万股将被强制退市
+数据库中已存在相同title,跳过
+title: 提升A股国际影响力！交易所又一重要指引发布
+数据库中已存在相同title,跳过
+title: 美官方调查福特烈马运动版漏油问题 称其补救措施未能解决问题
+数据库中已存在相同title,跳过
+title: 航空、邮轮股走低 联合大陆航空跌超4.8%
+数据库中已存在相同title,跳过
+title: 泛亚环保(00556.HK)拟于美国成立一家附属 以发展Web3.0业务及AI业务
+数据库中已存在相同title,跳过
+title: 苏美达：2023年净利润10.30亿元 同比增长12.80% 拟10派3.3元
+数据库中已存在相同title,跳过
+title: 茂业国际(00848.HK)拟委聘罗兵咸永道为新任核数师
+数据库中已存在相同title,跳过
+title: 茅台跌价，谁背这个锅？
+数据库中已存在相同title,跳过
+title: 博安生物(06955)获中国金谷国际信托提供3亿元定期贷款
+数据库中已存在相同title,跳过
+title: 芯朋微：2023年净利润同比降33.8% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 中国碳中和(01372.HK)：钟国兴获委任为董事会主席
+数据库中已存在相同title,跳过
+title: 博安生物(06955.HK)获授一笔3亿元贷款融资
+数据库中已存在相同title,跳过
+title: Form 144 | 中央太平洋银行(CPF.US)董事拟出售9,999股股份，价值约19.18万美元
+数据库中已存在相同title,跳过
+title: 中泰化学：公司不生产粘胶长丝 生产粘胶短纤
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司将于4月30日披露2024年第一季度报告
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司目前暂不涉及低空飞行器相关业务
+数据库中已存在相同title,跳过
+title: 新能源车股随大盘走低 小鹏汽车跌超8%
+数据库中已存在相同title,跳过
+title: 智己汽车把CEO刘涛关进了笼子里
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+title: “进军AI”刺激苹果市值暴增1120亿美元 能否持续尚待观察
+数据库中已存在相同title,跳过
+title: 中材节能(603126.SH)：2023年净利润同比下降8.56% 拟10派0.83元
+数据库中已存在相同title,跳过
+title: 广汽发布固态电池 计划2026年装车
+数据库中已存在相同title,跳过
+title: 力帆科技(601777.SH)：2023年净利润同比减少84.35%至2421.22万元
+数据库中已存在相同title,跳过
+title: 联赢激光(688518.SH)：2023年净利润同比增长7.24% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 城建发展：2023年盈利5.59亿元 拟10派1元
+数据库中已存在相同title,跳过
+title: 康拓医疗：2023年净利同比下降0.23% 拟10派3.2元
+数据库中已存在相同title,跳过
+title: 航天科技：预计2024年一季度净利同比增长257.6%-410.86%
+数据库中已存在相同title,跳过
+title: 华大基因：2023年净利润同比下降88.43% 拟10派1元
+数据库中已存在相同title,跳过
+title: 中信证券、海通证券被证监会立案调查 涉中核钛白定增违规
+数据库中已存在相同title,跳过
+title: 天桥起重：2023年净利同比下降8.43% 拟10派0.15元
+数据库中已存在相同title,跳过
+title: 美团今日耗资4亿港币回购了387万股B类股份
+数据库中已存在相同title,跳过
+title: 华锦股份：2023年净利润同比下降86.72% 拟10派0.14元
+数据库中已存在相同title,跳过
+title: ST康美：2023年盈利1.03亿元 同比扭亏
+数据库中已存在相同title,跳过
+title: 福能东方：2023年盈利7013.90万元 同比扭亏
+数据库中已存在相同title,跳过
+爬取结束， 共爬取4条新闻！
+Sat 13 Apr 2024 03:18:01 AM CST
+准备爬取50条新闻
+title: 欧洲股市波动率飙升 地缘政治风险升温
+数据库中已存在相同title,跳过
+title: 芝加哥联储行长Goolsbee：住房市场是降低通胀率的关键
+数据库中已存在相同title,跳过
+title: 贝莱德CEO预计美联储2024年降息“一两次”
+数据库中已存在相同title,跳过
+title: 红塔证券去年多项业务利润为负 高管总薪酬却逆势增长 总裁沈春晖任内营收大降8成|券商年报
+数据库中已存在相同title,跳过
+title: 午盘：美股维持跌势 市场关注通胀与地缘政治风险
+数据库中已存在相同title,跳过
+title: 日本股市火了，金融圈也跟着火了，路演忙不迭
+数据库中已存在相同title,跳过
+title: 欧股多数收跌 欧洲斯托克50指数跌0.33%
+数据库中已存在相同title,跳过
+title: 3月社融增速下行，信贷均衡投放是重点
+数据库中已存在相同title,跳过
+title: 控股股东3.42亿元债务被转让 贝因美称目前不会引发控制权变更
+数据库中已存在相同title,跳过
+title: 前美联储主席伯南克建议英国央行向市场提供更明确的利率指引
+数据库中已存在相同title,跳过
+title: 美联储今年最多降息两次！全球最大资管CEO警告
+数据库中已存在相同title,跳过
+title: 年内已累涨四成！这一农产品连日刷新高 或复制可可的逆天行情
+数据库中已存在相同title,跳过
+title: Q1净息差环比缩减4% 摩根大通跌超5.7%
+数据库中已存在相同title,跳过
+title: 北交所：拟新增成交量退市指标，连续120个交易日累计成交量低于100万股将被强制退市
+数据库中已存在相同title,跳过
+title: 提升A股国际影响力！交易所又一重要指引发布
+数据库中已存在相同title,跳过
+title: 美官方调查福特烈马运动版漏油问题 称其补救措施未能解决问题
+数据库中已存在相同title,跳过
+title: 航空、邮轮股走低 联合大陆航空跌超4.8%
+数据库中已存在相同title,跳过
+title: 泛亚环保(00556.HK)拟于美国成立一家附属 以发展Web3.0业务及AI业务
+数据库中已存在相同title,跳过
+title: 苏美达：2023年净利润10.30亿元 同比增长12.80% 拟10派3.3元
+数据库中已存在相同title,跳过
+title: 茂业国际(00848.HK)拟委聘罗兵咸永道为新任核数师
+数据库中已存在相同title,跳过
+title: 茅台跌价，谁背这个锅？
+数据库中已存在相同title,跳过
+title: 博安生物(06955)获中国金谷国际信托提供3亿元定期贷款
+数据库中已存在相同title,跳过
+title: 芯朋微：2023年净利润同比降33.8% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 中国碳中和(01372.HK)：钟国兴获委任为董事会主席
+数据库中已存在相同title,跳过
+title: 博安生物(06955.HK)获授一笔3亿元贷款融资
+数据库中已存在相同title,跳过
+title: Form 144 | 中央太平洋银行(CPF.US)董事拟出售9,999股股份，价值约19.18万美元
+数据库中已存在相同title,跳过
+title: 中泰化学：公司不生产粘胶长丝 生产粘胶短纤
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司将于4月30日披露2024年第一季度报告
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司目前暂不涉及低空飞行器相关业务
+数据库中已存在相同title,跳过
+title: 新能源车股随大盘走低 小鹏汽车跌超8%
+数据库中已存在相同title,跳过
+title: 智己汽车把CEO刘涛关进了笼子里
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+title: “进军AI”刺激苹果市值暴增1120亿美元 能否持续尚待观察
+数据库中已存在相同title,跳过
+title: 中材节能(603126.SH)：2023年净利润同比下降8.56% 拟10派0.83元
+数据库中已存在相同title,跳过
+title: 广汽发布固态电池 计划2026年装车
+数据库中已存在相同title,跳过
+title: 力帆科技(601777.SH)：2023年净利润同比减少84.35%至2421.22万元
+数据库中已存在相同title,跳过
+title: 联赢激光(688518.SH)：2023年净利润同比增长7.24% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 城建发展：2023年盈利5.59亿元 拟10派1元
+数据库中已存在相同title,跳过
+title: 康拓医疗：2023年净利同比下降0.23% 拟10派3.2元
+数据库中已存在相同title,跳过
+title: 航天科技：预计2024年一季度净利同比增长257.6%-410.86%
+数据库中已存在相同title,跳过
+title: 华大基因：2023年净利润同比下降88.43% 拟10派1元
+数据库中已存在相同title,跳过
+title: 中信证券、海通证券被证监会立案调查 涉中核钛白定增违规
+数据库中已存在相同title,跳过
+title: 天桥起重：2023年净利同比下降8.43% 拟10派0.15元
+数据库中已存在相同title,跳过
+title: 美团今日耗资4亿港币回购了387万股B类股份
+数据库中已存在相同title,跳过
+爬取结束， 共爬取3条新闻！
+Sat 13 Apr 2024 04:18:01 AM CST
+准备爬取50条新闻
+title: 亚特兰大联储行长Bostic强调家庭面临住房负担能力挑战
+数据库中已存在相同title,跳过
+title: 尾盘：美股继续走低 道指跌逾500点
+数据库中已存在相同title,跳过
+title: 堪萨斯城联储行长Schmid：降息前需看到明确且令人信服的通胀证据
+数据库中已存在相同title,跳过
+title: 欧洲股市波动率飙升 地缘政治风险升温
+数据库中已存在相同title,跳过
+title: 芝加哥联储行长Goolsbee：住房市场是降低通胀率的关键
+数据库中已存在相同title,跳过
+title: 贝莱德CEO预计美联储2024年降息“一两次”
+数据库中已存在相同title,跳过
+title: 红塔证券去年多项业务利润为负 高管总薪酬却逆势增长 总裁沈春晖任内营收大降8成|券商年报
+数据库中已存在相同title,跳过
+title: 午盘：美股维持跌势 市场关注通胀与地缘政治风险
+数据库中已存在相同title,跳过
+title: 日本股市火了，金融圈也跟着火了，路演忙不迭
+数据库中已存在相同title,跳过
+title: 欧股多数收跌 欧洲斯托克50指数跌0.33%
+数据库中已存在相同title,跳过
+title: 3月社融增速下行，信贷均衡投放是重点
+数据库中已存在相同title,跳过
+title: 控股股东3.42亿元债务被转让 贝因美称目前不会引发控制权变更
+数据库中已存在相同title,跳过
+title: 前美联储主席伯南克建议英国央行向市场提供更明确的利率指引
+数据库中已存在相同title,跳过
+title: 美联储今年最多降息两次！全球最大资管CEO警告
+数据库中已存在相同title,跳过
+title: 年内已累涨四成！这一农产品连日刷新高 或复制可可的逆天行情
+数据库中已存在相同title,跳过
+title: Q1净息差环比缩减4% 摩根大通跌超5.7%
+数据库中已存在相同title,跳过
+title: 北交所：拟新增成交量退市指标，连续120个交易日累计成交量低于100万股将被强制退市
+数据库中已存在相同title,跳过
+title: 提升A股国际影响力！交易所又一重要指引发布
+数据库中已存在相同title,跳过
+title: 美官方调查福特烈马运动版漏油问题 称其补救措施未能解决问题
+数据库中已存在相同title,跳过
+title: 航空、邮轮股走低 联合大陆航空跌超4.8%
+数据库中已存在相同title,跳过
+title: 泛亚环保(00556.HK)拟于美国成立一家附属 以发展Web3.0业务及AI业务
+数据库中已存在相同title,跳过
+title: 苏美达：2023年净利润10.30亿元 同比增长12.80% 拟10派3.3元
+数据库中已存在相同title,跳过
+title: 茂业国际(00848.HK)拟委聘罗兵咸永道为新任核数师
+数据库中已存在相同title,跳过
+title: 茅台跌价，谁背这个锅？
+数据库中已存在相同title,跳过
+title: 博安生物(06955)获中国金谷国际信托提供3亿元定期贷款
+数据库中已存在相同title,跳过
+title: 芯朋微：2023年净利润同比降33.8% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 中国碳中和(01372.HK)：钟国兴获委任为董事会主席
+数据库中已存在相同title,跳过
+title: 博安生物(06955.HK)获授一笔3亿元贷款融资
+数据库中已存在相同title,跳过
+title: Form 144 | 中央太平洋银行(CPF.US)董事拟出售9,999股股份，价值约19.18万美元
+数据库中已存在相同title,跳过
+title: 中泰化学：公司不生产粘胶长丝 生产粘胶短纤
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司将于4月30日披露2024年第一季度报告
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司目前暂不涉及低空飞行器相关业务
+数据库中已存在相同title,跳过
+title: 新能源车股随大盘走低 小鹏汽车跌超8%
+数据库中已存在相同title,跳过
+title: 智己汽车把CEO刘涛关进了笼子里
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+title: “进军AI”刺激苹果市值暴增1120亿美元 能否持续尚待观察
+数据库中已存在相同title,跳过
+title: 中材节能(603126.SH)：2023年净利润同比下降8.56% 拟10派0.83元
+数据库中已存在相同title,跳过
+title: 广汽发布固态电池 计划2026年装车
+数据库中已存在相同title,跳过
+爬取结束， 共爬取9条新闻！
+Sat 13 Apr 2024 05:18:01 AM CST
+准备爬取50条新闻
+title: 收盘：美股连续第二周下跌 通胀压力与中东局势施压
+数据库中已存在相同title,跳过
+title: 美国WTI原油盘中突破每桶87美元 市场关注中东局势发展
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic重申预计今年晚些时候降息一次
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic强调家庭面临住房负担能力挑战
+数据库中已存在相同title,跳过
+title: 尾盘：美股继续走低 道指跌逾500点
+数据库中已存在相同title,跳过
+title: 堪萨斯城联储行长Schmid：降息前需看到明确且令人信服的通胀证据
+数据库中已存在相同title,跳过
+title: 空头赢了！特朗普最纯概念股市值两周缩水过半
+数据库中已存在相同title,跳过
+title: 拜登政府终于出手！美国油企成本压力骤然上升
+数据库中已存在相同title,跳过
+title: 美国4月密歇根消费者信心回落，通胀预期全线反弹
+数据库中已存在相同title,跳过
+title: 汇金公司继续增持四大行 有助提振市场信心及银行股估值
+数据库中已存在相同title,跳过
+title: 欧洲股市波动率飙升 地缘政治风险升温
+数据库中已存在相同title,跳过
+title: 芝加哥联储行长Goolsbee：住房市场是降低通胀率的关键
+数据库中已存在相同title,跳过
+title: 高利率利好正在消散 华尔街大行净利息收入“预警” 摩根大通大跌6%
+数据库中已存在相同title,跳过
+title: 贝莱德CEO预计美联储2024年降息“一两次”
+数据库中已存在相同title,跳过
+title: 红塔证券去年多项业务利润为负 高管总薪酬却逆势增长 总裁沈春晖任内营收大降8成|券商年报
+数据库中已存在相同title,跳过
+title: 午盘：美股维持跌势 市场关注通胀与地缘政治风险
+数据库中已存在相同title,跳过
+title: 日本股市火了，金融圈也跟着火了，路演忙不迭
+数据库中已存在相同title,跳过
+title: 奥尔特曼举行大公司推销路演 当面被问“为何要放弃微软产品”
+数据库中已存在相同title,跳过
+title: 欧股多数收跌 欧洲斯托克50指数跌0.33%
+数据库中已存在相同title,跳过
+title: 3月社融增速下行，信贷均衡投放是重点
+数据库中已存在相同title,跳过
+title: 控股股东3.42亿元债务被转让 贝因美称目前不会引发控制权变更
+数据库中已存在相同title,跳过
+title: 前美联储主席伯南克建议英国央行向市场提供更明确的利率指引
+数据库中已存在相同title,跳过
+title: 美联储今年最多降息两次！全球最大资管CEO警告
+数据库中已存在相同title,跳过
+title: 年内已累涨四成！这一农产品连日刷新高 或复制可可的逆天行情
+数据库中已存在相同title,跳过
+title: Q1净息差环比缩减4% 摩根大通跌超5.7%
+数据库中已存在相同title,跳过
+title: 北交所：拟新增成交量退市指标，连续120个交易日累计成交量低于100万股将被强制退市
+数据库中已存在相同title,跳过
+title: 提升A股国际影响力！交易所又一重要指引发布
+数据库中已存在相同title,跳过
+title: 美官方调查福特烈马运动版漏油问题 称其补救措施未能解决问题
+数据库中已存在相同title,跳过
+title: 航空、邮轮股走低 联合大陆航空跌超4.8%
+数据库中已存在相同title,跳过
+title: 泛亚环保(00556.HK)拟于美国成立一家附属 以发展Web3.0业务及AI业务
+数据库中已存在相同title,跳过
+title: 苏美达：2023年净利润10.30亿元 同比增长12.80% 拟10派3.3元
+数据库中已存在相同title,跳过
+title: 茂业国际(00848.HK)拟委聘罗兵咸永道为新任核数师
+数据库中已存在相同title,跳过
+title: 茅台跌价，谁背这个锅？
+数据库中已存在相同title,跳过
+title: 博安生物(06955)获中国金谷国际信托提供3亿元定期贷款
+数据库中已存在相同title,跳过
+title: 芯朋微：2023年净利润同比降33.8% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 中国碳中和(01372.HK)：钟国兴获委任为董事会主席
+数据库中已存在相同title,跳过
+title: 博安生物(06955.HK)获授一笔3亿元贷款融资
+数据库中已存在相同title,跳过
+title: Form 144 | 中央太平洋银行(CPF.US)董事拟出售9,999股股份，价值约19.18万美元
+数据库中已存在相同title,跳过
+title: 中泰化学：公司不生产粘胶长丝 生产粘胶短纤
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司将于4月30日披露2024年第一季度报告
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司目前暂不涉及低空飞行器相关业务
+数据库中已存在相同title,跳过
+title: 新能源车股随大盘走低 小鹏汽车跌超8%
+数据库中已存在相同title,跳过
+title: 智己汽车把CEO刘涛关进了笼子里
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 圣马丁国际(00482.HK)2023年度收益约为5.62亿港元
+数据库中已存在相同title,跳过
+爬取结束， 共爬取4条新闻！
+Sat 13 Apr 2024 06:18:01 AM CST
+准备爬取50条新闻
+title: 4月12日美股成交额前20：马斯克称Grok 3可能需要10万块英伟达H100 GPU
+数据库中已存在相同title,跳过
+title: 美联储官员Daly：完全没有调整利率的紧迫性
+数据库中已存在相同title,跳过
+title: 热门中概股周五大多下跌 阿里跌4.7%，小鹏跌9.9%
+数据库中已存在相同title,跳过
+title: 收盘：美股连续第二周下跌 通胀压力与中东局势施压
+数据库中已存在相同title,跳过
+title: 美国WTI原油盘中突破每桶87美元 市场关注中东局势发展
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic重申预计今年晚些时候降息一次
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic强调家庭面临住房负担能力挑战
+数据库中已存在相同title,跳过
+title: 尾盘：美股继续走低 道指跌逾500点
+数据库中已存在相同title,跳过
+title: 堪萨斯城联储行长Schmid：降息前需看到明确且令人信服的通胀证据
+数据库中已存在相同title,跳过
+title: 空头赢了！特朗普最纯概念股市值两周缩水过半
+数据库中已存在相同title,跳过
+title: 拜登政府终于出手！美国油企成本压力骤然上升
+数据库中已存在相同title,跳过
+title: 美国4月密歇根消费者信心回落，通胀预期全线反弹
+数据库中已存在相同title,跳过
+title: 汇金公司继续增持四大行 有助提振市场信心及银行股估值
+数据库中已存在相同title,跳过
+title: 欧洲股市波动率飙升 地缘政治风险升温
+数据库中已存在相同title,跳过
+title: 芝加哥联储行长Goolsbee：住房市场是降低通胀率的关键
+数据库中已存在相同title,跳过
+title: 高利率利好正在消散 华尔街大行净利息收入“预警” 摩根大通大跌6%
+数据库中已存在相同title,跳过
+title: 贝莱德CEO预计美联储2024年降息“一两次”
+数据库中已存在相同title,跳过
+title: 红塔证券去年多项业务利润为负 高管总薪酬却逆势增长 总裁沈春晖任内营收大降8成|券商年报
+数据库中已存在相同title,跳过
+title: 午盘：美股维持跌势 市场关注通胀与地缘政治风险
+数据库中已存在相同title,跳过
+title: 日本股市火了，金融圈也跟着火了，路演忙不迭
+数据库中已存在相同title,跳过
+title: 奥尔特曼举行大公司推销路演 当面被问“为何要放弃微软产品”
+数据库中已存在相同title,跳过
+title: 欧股多数收跌 欧洲斯托克50指数跌0.33%
+数据库中已存在相同title,跳过
+title: 3月社融增速下行，信贷均衡投放是重点
+数据库中已存在相同title,跳过
+title: 控股股东3.42亿元债务被转让 贝因美称目前不会引发控制权变更
+数据库中已存在相同title,跳过
+title: 前美联储主席伯南克建议英国央行向市场提供更明确的利率指引
+数据库中已存在相同title,跳过
+title: 美联储今年最多降息两次！全球最大资管CEO警告
+数据库中已存在相同title,跳过
+title: 年内已累涨四成！这一农产品连日刷新高 或复制可可的逆天行情
+数据库中已存在相同title,跳过
+title: Q1净息差环比缩减4% 摩根大通跌超5.7%
+数据库中已存在相同title,跳过
+title: 北交所：拟新增成交量退市指标，连续120个交易日累计成交量低于100万股将被强制退市
+数据库中已存在相同title,跳过
+title: 提升A股国际影响力！交易所又一重要指引发布
+数据库中已存在相同title,跳过
+title: 美官方调查福特烈马运动版漏油问题 称其补救措施未能解决问题
+数据库中已存在相同title,跳过
+title: 航空、邮轮股走低 联合大陆航空跌超4.8%
+数据库中已存在相同title,跳过
+title: 泛亚环保(00556.HK)拟于美国成立一家附属 以发展Web3.0业务及AI业务
+数据库中已存在相同title,跳过
+title: 苏美达：2023年净利润10.30亿元 同比增长12.80% 拟10派3.3元
+数据库中已存在相同title,跳过
+title: 茂业国际(00848.HK)拟委聘罗兵咸永道为新任核数师
+数据库中已存在相同title,跳过
+title: 茅台跌价，谁背这个锅？
+数据库中已存在相同title,跳过
+title: 博安生物(06955)获中国金谷国际信托提供3亿元定期贷款
+数据库中已存在相同title,跳过
+title: 芯朋微：2023年净利润同比降33.8% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 中国碳中和(01372.HK)：钟国兴获委任为董事会主席
+数据库中已存在相同title,跳过
+title: 博安生物(06955.HK)获授一笔3亿元贷款融资
+数据库中已存在相同title,跳过
+title: Form 144 | 中央太平洋银行(CPF.US)董事拟出售9,999股股份，价值约19.18万美元
+数据库中已存在相同title,跳过
+title: 中泰化学：公司不生产粘胶长丝 生产粘胶短纤
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司将于4月30日披露2024年第一季度报告
+数据库中已存在相同title,跳过
+title: 浪潮信息：公司目前暂不涉及低空飞行器相关业务
+数据库中已存在相同title,跳过
+title: 新能源车股随大盘走低 小鹏汽车跌超8%
+数据库中已存在相同title,跳过
+title: 智己汽车把CEO刘涛关进了笼子里
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+title: 中国交通建设(01800.HK)与中交海峰订立劳务分包与专业分包框架协议
+数据库中已存在相同title,跳过
+爬取结束， 共爬取2条新闻！
+Sat 13 Apr 2024 07:18:01 AM CST
+准备爬取50条新闻
+title: 隔夜要闻：贝莱德CEO预计美联储2024年降息一两次 美国4月密歇根消费者信心回落 “进军AI”刺激苹果市值暴增
+数据库中已存在相同title,跳过
+title: 周五纽约黄金期货收跌0.5%
+数据库中已存在相同title,跳过
+title: 4月12日美股成交额前20：马斯克称Grok 3可能需要10万块英伟达H100 GPU
+数据库中已存在相同title,跳过
+title: 美联储官员Daly：完全没有调整利率的紧迫性
+数据库中已存在相同title,跳过
+title: 热门中概股周五大多下跌 阿里跌4.7%，小鹏跌9.9%
+数据库中已存在相同title,跳过
+title: 收盘：美股连续第二周下跌 通胀压力与中东局势施压
+数据库中已存在相同title,跳过
+title: 美国WTI原油盘中突破每桶87美元 市场关注中东局势发展
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic重申预计今年晚些时候降息一次
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic强调家庭面临住房负担能力挑战
+数据库中已存在相同title,跳过
+title: 尾盘：美股继续走低 道指跌逾500点
+数据库中已存在相同title,跳过
+title: 堪萨斯城联储行长Schmid：降息前需看到明确且令人信服的通胀证据
+数据库中已存在相同title,跳过
+title: 空头赢了！特朗普最纯概念股市值两周缩水过半
+数据库中已存在相同title,跳过
+title: 拜登政府终于出手！美国油企成本压力骤然上升
+数据库中已存在相同title,跳过
+title: 美国4月密歇根消费者信心回落，通胀预期全线反弹
+数据库中已存在相同title,跳过
+title: 汇金公司继续增持四大行 有助提振市场信心及银行股估值
+数据库中已存在相同title,跳过
+title: 欧洲股市波动率飙升 地缘政治风险升温
+数据库中已存在相同title,跳过
+title: 芝加哥联储行长Goolsbee：住房市场是降低通胀率的关键
+数据库中已存在相同title,跳过
+title: 高利率利好正在消散 华尔街大行净利息收入“预警” 摩根大通大跌6%
+数据库中已存在相同title,跳过
+title: 贝莱德CEO预计美联储2024年降息“一两次”
+数据库中已存在相同title,跳过
+title: 红塔证券去年多项业务利润为负 高管总薪酬却逆势增长 总裁沈春晖任内营收大降8成|券商年报
+数据库中已存在相同title,跳过
+title: 午盘：美股维持跌势 市场关注通胀与地缘政治风险
+数据库中已存在相同title,跳过
+title: 日本股市火了，金融圈也跟着火了，路演忙不迭
+数据库中已存在相同title,跳过
+title: 奥尔特曼举行大公司推销路演 当面被问“为何要放弃微软产品”
+数据库中已存在相同title,跳过
+title: 欧股多数收跌 欧洲斯托克50指数跌0.33%
+数据库中已存在相同title,跳过
+title: 3月社融增速下行，信贷均衡投放是重点
+数据库中已存在相同title,跳过
+title: 控股股东3.42亿元债务被转让 贝因美称目前不会引发控制权变更
+数据库中已存在相同title,跳过
+title: 前美联储主席伯南克建议英国央行向市场提供更明确的利率指引
+数据库中已存在相同title,跳过
+title: 美联储今年最多降息两次！全球最大资管CEO警告
+数据库中已存在相同title,跳过
+title: 年内已累涨四成！这一农产品连日刷新高 或复制可可的逆天行情
+数据库中已存在相同title,跳过
+title: Q1净息差环比缩减4% 摩根大通跌超5.7%
+数据库中已存在相同title,跳过
+title: 北交所：拟新增成交量退市指标，连续120个交易日累计成交量低于100万股将被强制退市
+数据库中已存在相同title,跳过
+title: 提升A股国际影响力！交易所又一重要指引发布
+数据库中已存在相同title,跳过
+title: 美官方调查福特烈马运动版漏油问题 称其补救措施未能解决问题
+数据库中已存在相同title,跳过
+title: 航空、邮轮股走低 联合大陆航空跌超4.8%
+数据库中已存在相同title,跳过
+title: 泛亚环保(00556.HK)拟于美国成立一家附属 以发展Web3.0业务及AI业务
+数据库中已存在相同title,跳过
+title: 苏美达：2023年净利润10.30亿元 同比增长12.80% 拟10派3.3元
+数据库中已存在相同title,跳过
+title: 茂业国际(00848.HK)拟委聘罗兵咸永道为新任核数师
+数据库中已存在相同title,跳过
+title: 茅台跌价，谁背这个锅？
+数据库中已存在相同title,跳过
+title: 博安生物(06955)获中国金谷国际信托提供3亿元定期贷款
+数据库中已存在相同title,跳过
+title: 芯朋微：2023年净利润同比降33.8% 拟10派1.5元
+数据库中已存在相同title,跳过
+title: 中国碳中和(01372.HK)：钟国兴获委任为董事会主席
+数据库中已存在相同title,跳过
+爬取结束， 共爬取9条新闻！
+Sat 13 Apr 2024 08:18:01 AM CST
+准备爬取50条新闻
+title: 隔夜要闻：贝莱德CEO预计美联储2024年降息一两次 美国4月密歇根消费者信心回落 “进军AI”刺激苹果市值暴增
+数据库中已存在相同title,跳过
+已爬取20条新闻
+title: 周五纽约黄金期货收跌0.5%
+数据库中已存在相同title,跳过
+title: 4月12日美股成交额前20：马斯克称Grok 3可能需要10万块英伟达H100 GPU
+数据库中已存在相同title,跳过
+title: 美联储官员Daly：完全没有调整利率的紧迫性
+数据库中已存在相同title,跳过
+title: 热门中概股周五大多下跌 阿里跌4.7%，小鹏跌9.9%
+数据库中已存在相同title,跳过
+title: 收盘：美股连续第二周下跌 通胀压力与中东局势施压
+数据库中已存在相同title,跳过
+title: 从源头上提高上市公司质量IPO新规全面提升上市门槛
+数据库中已存在相同title,跳过
+title: 推动资本市场“1+N”政策体系落地实施 证监会就6项制度规则公开征求意见
+数据库中已存在相同title,跳过
+title: 量化新规强调“四个突出” 提升监管针对性有效性
+数据库中已存在相同title,跳过
+title: 退市新规势大力沉 加速资本市场优胜劣汰
+数据库中已存在相同title,跳过
+title: 重构资本市场顶层设计更好服务经济高质量发展
+数据库中已存在相同title,跳过
+title: 加强监管防范风险推动资本市场高质量发展——证监会主席吴清就贯彻落实资本市场第三个“国九条”接受专访
+数据库中已存在相同title,跳过
+title: 美国WTI原油盘中突破每桶87美元 市场关注中东局势发展
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic重申预计今年晚些时候降息一次
+数据库中已存在相同title,跳过
+title: 亚特兰大联储行长Bostic强调家庭面临住房负担能力挑战
+数据库中已存在相同title,跳过
+title: 尾盘：美股继续走低 道指跌逾500点
+数据库中已存在相同title,跳过
+title: 堪萨斯城联储行长Schmid：降息前需看到明确且令人信服的通胀证据
+数据库中已存在相同title,跳过
+title: 空头赢了！特朗普最纯概念股市值两周缩水过半
+数据库中已存在相同title,跳过
+title: 拜登政府终于出手！美国油企成本压力骤然上升
+数据库中已存在相同title,跳过
+title: 美国4月密歇根消费者信心回落，通胀预期全线反弹
+数据库中已存在相同title,跳过
+title: 汇金公司继续增持四大行 有助提振市场信心及银行股估值
+数据库中已存在相同title,跳过
+title: 欧洲股市波动率飙升 地缘政治风险升温
+数据库中已存在相同title,跳过
+爬取结束， 共爬取28条新闻！
+Sat 13 Apr 2024 09:18:01 AM CST
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8189520.shtml
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xB7 \\xE4...' for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8190582.shtml
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xB7 \\xE4...' for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/zqgd/2024-04-13/doc-inarrvha9493855.shtml
+准备爬取50条新闻
+title: 全球恐慌！拜登警告伊朗，美股杀跌，黄金、白银疯狂跳水！
+数据库中已存在相同title,跳过
+title: 达刚控股发生了什么？两名董事对所有议案投出反对票，业绩连亏两年
+数据库中已存在相同title,跳过
+title: 沪深北交易所就业务规则公开征求意见 涉及提高上市条件、严格退市标准
+数据库中已存在相同title,跳过
+title: 退市规则升级 加大对“害群之马”出清力度
+数据库中已存在相同title,跳过
+title: 美国“女股神”凯西·伍德又有新动作！看好AI行业入股OpenAI
+数据库中已存在相同title,跳过
+title: 程序化交易迎新规，量化私募火线解读！
+数据库中已存在相同title,跳过
+title: 三部门：力争充换电 基础设施“乡乡全覆盖”
+数据库中已存在相同title,跳过
+title: 新“国九条”发布 资本市场未来改革路线明确
+数据库中已存在相同title,跳过
+title: 中国广义货币总量已突破300万亿元，意味着什么？
+数据库中已存在相同title,跳过
+title: 一图看懂上市、退市、减持、重组、分红新规 主板和创业板上市标准提高
+数据库中已存在相同title,跳过
+title: 金价上涨，新型“含金”理财产品现认购热潮！潜在风险需注意
+数据库中已存在相同title,跳过
+title: 持续力挺 “国家队”大手笔增持！下周A股解禁市值逾400亿元 这家汽车零部件公司解禁市值与比例均居榜首
+数据库中已存在相同title,跳过
+title: 央视关注：阳光招生，能否为“入学焦虑”降温？
+数据库中已存在相同title,跳过
+title: 持续力挺，“国家队”大手笔增持！下周A股解禁市值逾400亿元，这家汽车零部件公司解禁市值与比例均居榜首
+数据库中已存在相同title,跳过
+title: 墨西哥致函联合国秘书长 谴责厄瓜多尔侵犯其使馆
+数据库中已存在相同title,跳过
+title: 格奥尔基耶娃连任国际货币基金组织总裁
+数据库中已存在相同title,跳过
+title: 资本市场重磅！“国九条”时隔10年再升级 如何影响A股令人期待
+数据库中已存在相同title,跳过
+title: 下周价格将下跌？分析师：贵金属上涨势头已达顶峰
+数据库中已存在相同title,跳过
+title: 固定收益投资信心指数连涨两个季度 险资仍看好二季度长久期利率债
+数据库中已存在相同title,跳过
+title: 隔夜要闻：贝莱德CEO预计美联储2024年降息一两次 美国4月密歇根消费者信心回落 “进军AI”刺激苹果市值暴增
+数据库中已存在相同title,跳过
+title: 资本市场“国九条”再升级 九大看点值得关注
+数据库中已存在相同title,跳过
+title: 周五纽约黄金期货收跌0.5%
+数据库中已存在相同title,跳过
+title: 4月12日美股成交额前20：马斯克称Grok 3可能需要10万块英伟达H100 GPU
+数据库中已存在相同title,跳过
+title: 美联储官员Daly：完全没有调整利率的紧迫性
+数据库中已存在相同title,跳过
+title: 热门中概股周五大多下跌 阿里跌4.7%，小鹏跌9.9%
+数据库中已存在相同title,跳过
+title: 收盘：美股连续第二周下跌 通胀压力与中东局势施压
+数据库中已存在相同title,跳过
+title: 新一轮“以旧换新”政策落地在即 家电消费热情高涨
+数据库中已存在相同title,跳过
+title: 毛戈平递表港交所
+数据库中已存在相同title,跳过
+title: 汇金公司增持四大行 超10亿股A股股份
+数据库中已存在相同title,跳过
+title: 金价升 扩产能 多家黄金上市公司预喜一季报
+数据库中已存在相同title,跳过
+title: 一季度新增人民币贷款9.46万亿元 贷款利率不断刷新历史最低值
+数据库中已存在相同title,跳过
+title: 推动消费品以旧换新行动方案发布 支持汽车换“能”、家电换“智”
+数据库中已存在相同title,跳过
+title: 严把发行上市准入关中介机构“看门人”责任更加重大
+数据库中已存在相同title,跳过
+title: 从源头上提高上市公司质量IPO新规全面提升上市门槛
+数据库中已存在相同title,跳过
+title: 完善证券基金行业薪酬制度持续壮大长期投资力量
+数据库中已存在相同title,跳过
+title: 推动资本市场“1+N”政策体系落地实施 证监会就6项制度规则公开征求意见
+数据库中已存在相同title,跳过
+title: 量化新规强调“四个突出” 提升监管针对性有效性
+数据库中已存在相同title,跳过
+title: 退市新规势大力沉 加速资本市场优胜劣汰
+数据库中已存在相同title,跳过
+title: 重构资本市场顶层设计更好服务经济高质量发展
+数据库中已存在相同title,跳过
+爬取结束， 共爬取11条新闻！
+Sat 13 Apr 2024 10:18:01 AM CST
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8189520.shtml
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xB7 \\xE4...' for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8190582.shtml
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xB7 \\xE4...' for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/zqgd/2024-04-13/doc-inarrvha9493855.shtml
+准备爬取50条新闻
+title: 视频|董少鹏解读“新国九条”：中国股市重新回到春天
+数据库中已存在相同title,跳过
+title: 傅聪候任中国常驻联合国代表
+数据库中已存在相同title,跳过
+title: 中国白酒T9峰会丨古井：相信相信的力量 坚持坚守的力量 激发奋进的力量
+数据库中已存在相同title,跳过
+title: 全球恐慌！拜登警告伊朗，美股杀跌，黄金、白银疯狂跳水！
+数据库中已存在相同title,跳过
+title: 中国银河证券：新“国九条”为新时期资本市场高质量发展指明方向
+数据库中已存在相同title,跳过
+title: 证监会：终于对中信证券立案，一切都会来的，只是时间的早晚
+数据库中已存在相同title,跳过
+title: 达刚控股发生了什么？两名董事对所有议案投出反对票，业绩连亏两年
+数据库中已存在相同title,跳过
+title: 朔尔茨将访华！一文看懂豪华代表团成员有哪些
+数据库中已存在相同title,跳过
+title: 一骑绝尘，国际金价突破2400美元大关，A股贵金属板块全线暴涨，后市如何演绎？
+数据库中已存在相同title,跳过
+title: 沪深北交易所就业务规则公开征求意见 涉及提高上市条件、严格退市标准
+数据库中已存在相同title,跳过
+title: 退市规则升级 加大对“害群之马”出清力度
+数据库中已存在相同title,跳过
+title: 美国“女股神”凯西·伍德又有新动作！看好AI行业入股OpenAI
+数据库中已存在相同title,跳过
+title: 程序化交易迎新规，量化私募火线解读！
+数据库中已存在相同title,跳过
+title: 三部门：力争充换电 基础设施“乡乡全覆盖”
+数据库中已存在相同title,跳过
+title: 新“国九条”发布 资本市场未来改革路线明确
+数据库中已存在相同title,跳过
+title: 中国广义货币总量已突破300万亿元，意味着什么？
+数据库中已存在相同title,跳过
+title: 一图看懂上市、退市、减持、重组、分红新规 主板和创业板上市标准提高
+数据库中已存在相同title,跳过
+title: 金价上涨，新型“含金”理财产品现认购热潮！潜在风险需注意
+数据库中已存在相同title,跳过
+title: 持续力挺 “国家队”大手笔增持！下周A股解禁市值逾400亿元 这家汽车零部件公司解禁市值与比例均居榜首
+数据库中已存在相同title,跳过
+title: 央视关注：阳光招生，能否为“入学焦虑”降温？
+数据库中已存在相同title,跳过
+title: 持续力挺，“国家队”大手笔增持！下周A股解禁市值逾400亿元，这家汽车零部件公司解禁市值与比例均居榜首
+数据库中已存在相同title,跳过
+title: 墨西哥致函联合国秘书长 谴责厄瓜多尔侵犯其使馆
+数据库中已存在相同title,跳过
+title: 格奥尔基耶娃连任国际货币基金组织总裁
+数据库中已存在相同title,跳过
+title: 资本市场重磅！“国九条”时隔10年再升级 如何影响A股令人期待
+数据库中已存在相同title,跳过
+title: 首席经济学家荀玉根 | 新“国九条”点评：建立健全监管制度、培育引入长期资金、促进金融服务实体
+数据库中已存在相同title,跳过
+title: 下周价格将下跌？分析师：贵金属上涨势头已达顶峰
+数据库中已存在相同title,跳过
+title: 固定收益投资信心指数连涨两个季度 险资仍看好二季度长久期利率债
+数据库中已存在相同title,跳过
+title: 隔夜要闻：贝莱德CEO预计美联储2024年降息一两次 美国4月密歇根消费者信心回落 “进军AI”刺激苹果市值暴增
+数据库中已存在相同title,跳过
+title: 资本市场“国九条”再升级 九大看点值得关注
+数据库中已存在相同title,跳过
+title: 周五纽约黄金期货收跌0.5%
+数据库中已存在相同title,跳过
+title: 4月12日美股成交额前20：马斯克称Grok 3可能需要10万块英伟达H100 GPU
+数据库中已存在相同title,跳过
+title: 美联储官员Daly：完全没有调整利率的紧迫性
+数据库中已存在相同title,跳过
+title: 热门中概股周五大多下跌 阿里跌4.7%，小鹏跌9.9%
+数据库中已存在相同title,跳过
+title: 收盘：美股连续第二周下跌 通胀压力与中东局势施压
+数据库中已存在相同title,跳过
+title: 新一轮“以旧换新”政策落地在即 家电消费热情高涨
+数据库中已存在相同title,跳过
+title: 毛戈平递表港交所
+数据库中已存在相同title,跳过
+title: 汇金公司增持四大行 超10亿股A股股份
+数据库中已存在相同title,跳过
+title: 金价升 扩产能 多家黄金上市公司预喜一季报
+数据库中已存在相同title,跳过
+爬取结束， 共爬取12条新闻！
+Sat 13 Apr 2024 11:18:01 AM CST
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8189520.shtml
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xB7 \\xE4...' for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8190582.shtml
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 59, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1366, "Incorrect string value: '\\xF0\\x9F\\x94\\xB7 \\xE4...' for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/zqgd/2024-04-13/doc-inarrvha9493855.shtml
+准备爬取50条新闻
+title: T9重磅 | 张联东：乘势破局共赴时代新生 乘风破浪共创美好未来
+数据库中已存在相同title,跳过
+title: T9重磅 | 刘淼：坚定信心 五力并举 价值跃升 携手推动中国白酒高质量发展
+数据库中已存在相同title,跳过
+title: T9重磅 | 曾从钦：以长期价值主义引领白酒产业穿越周期
+数据库中已存在相同title,跳过
+title: T9重磅|梁金辉：信心的力量 坚守的力量 奋进的力量
+数据库中已存在相同title,跳过
+title: T9重磅 | 丁雄军：以“美学”实践推动中国白酒可持续发展
+数据库中已存在相同title,跳过
+title: T9重磅 | 宋书玉：树信心 固本源 提价值
+数据库中已存在相同title,跳过
+title: T9重磅 | 树信心 固本源 提价值——“第十三届中国白酒T9峰会”在山西太原隆重举行
+数据库中已存在相同title,跳过
+title: 习酒集团应邀参加第十三届中国白酒T9峰会
+数据库中已存在相同title,跳过
+title: 华西证券，被暂停保荐业务资格6个月
+数据库中已存在相同title,跳过
+title: 视频|董少鹏解读“新国九条”：中国股市重新回到春天
+数据库中已存在相同title,跳过
+title: 英美对俄罗斯金属实施制裁，限制铜、铝、镍交易
+数据库中已存在相同title,跳过
+title: 傅聪候任中国常驻联合国代表
+数据库中已存在相同title,跳过
+title: 中国白酒T9峰会丨古井：相信相信的力量 坚持坚守的力量 激发奋进的力量
+数据库中已存在相同title,跳过
+title: 全球恐慌！拜登警告伊朗，美股杀跌，黄金、白银疯狂跳水！
+数据库中已存在相同title,跳过
+title: 中国银河证券：新“国九条”为新时期资本市场高质量发展指明方向
+数据库中已存在相同title,跳过
+title: 证监会：终于对中信证券立案，一切都会来的，只是时间的早晚
+数据库中已存在相同title,跳过
+title: 达刚控股发生了什么？两名董事对所有议案投出反对票，业绩连亏两年
+数据库中已存在相同title,跳过
+title: 朔尔茨将访华！一文看懂豪华代表团成员有哪些
+数据库中已存在相同title,跳过
+title: 一骑绝尘，国际金价突破2400美元大关，A股贵金属板块全线暴涨，后市如何演绎？
+数据库中已存在相同title,跳过
+title: 沪深北交易所就业务规则公开征求意见 涉及提高上市条件、严格退市标准
+数据库中已存在相同title,跳过
+title: 退市规则升级 加大对“害群之马”出清力度
+数据库中已存在相同title,跳过
+title: 美国“女股神”凯西·伍德又有新动作！看好AI行业入股OpenAI
+数据库中已存在相同title,跳过
+title: 程序化交易迎新规，量化私募火线解读！
+数据库中已存在相同title,跳过
+title: 三部门：力争充换电 基础设施“乡乡全覆盖”
+数据库中已存在相同title,跳过
+title: 新“国九条”发布 资本市场未来改革路线明确
+数据库中已存在相同title,跳过
+title: 中国广义货币总量已突破300万亿元，意味着什么？
+数据库中已存在相同title,跳过
+title: 一图看懂上市、退市、减持、重组、分红新规 主板和创业板上市标准提高
+数据库中已存在相同title,跳过
+title: 金价上涨，新型“含金”理财产品现认购热潮！潜在风险需注意
+数据库中已存在相同title,跳过
+title: 持续力挺 “国家队”大手笔增持！下周A股解禁市值逾400亿元 这家汽车零部件公司解禁市值与比例均居榜首
+数据库中已存在相同title,跳过
+title: 央视关注：阳光招生，能否为“入学焦虑”降温？
+数据库中已存在相同title,跳过
+title: 持续力挺，“国家队”大手笔增持！下周A股解禁市值逾400亿元，这家汽车零部件公司解禁市值与比例均居榜首
+数据库中已存在相同title,跳过
+title: 墨西哥致函联合国秘书长 谴责厄瓜多尔侵犯其使馆
+数据库中已存在相同title,跳过
+title: 格奥尔基耶娃连任国际货币基金组织总裁
+数据库中已存在相同title,跳过
+title: 资本市场重磅！“国九条”时隔10年再升级 如何影响A股令人期待
+数据库中已存在相同title,跳过
+title: 首席经济学家荀玉根 | 新“国九条”点评：建立健全监管制度、培育引入长期资金、促进金融服务实体
+数据库中已存在相同title,跳过
+title: 下周价格将下跌？分析师：贵金属上涨势头已达顶峰
+数据库中已存在相同title,跳过
+title: 固定收益投资信心指数连涨两个季度 险资仍看好二季度长久期利率债
+数据库中已存在相同title,跳过
+title: 隔夜要闻：贝莱德CEO预计美联储2024年降息一两次 美国4月密歇根消费者信心回落 “进军AI”刺激苹果市值暴增
+数据库中已存在相同title,跳过
+爬取结束， 共爬取12条新闻！
+Sat 13 Apr 2024 12:10:01 PM CST
+  File "/root/sinaCrawler/sinaCrawler.py", line 40
+    charset: 'utf8mb4'
+           ^
+SyntaxError: invalid syntax
+Sat 13 Apr 2024 12:13:01 PM CST
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 60, in get_detailed_page
+    cursor.execute(insert_sql, (title, time, source, text))
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.8/dist-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'text' at row 1")
+wrong url , please check:https://finance.sina.com.cn/stock/2024-04-13/doc-inarrvfx8189520.shtml
+准备爬取50条新闻
+title: 屠光绍：高水平金融开放是构建新发展格局和推动高质量发展的关键支撑
+数据库中已存在相同title,跳过
+title: 英美对俄罗斯金属实施制裁，限制铜、铝、镍交易
+数据库中已存在相同title,跳过
+title: 一图看懂：交易所规则新变化将有哪些
+数据库中已存在相同title,跳过
+title: 央行发布最新金融数据！专家解读来了
+数据库中已存在相同title,跳过
+title: T9重磅｜汪俊林：坚持长期主义 做时间的朋友
+数据库中已存在相同title,跳过
+title: T9重磅｜袁清茂：“123”中国白酒发展观
+数据库中已存在相同title,跳过
+title: T9重磅｜徐占成：践行传统与创新的新融合，谱写产业发展的新篇章
+数据库中已存在相同title,跳过
+title: T9重磅｜汪地强：坚守质量底线 坚守文化传承 坚守为消费者服务
+数据库中已存在相同title,跳过
+title: T9重磅 | 张联东：乘势破局共赴时代新生 乘风破浪共创美好未来
+数据库中已存在相同title,跳过
+title: T9重磅 | 刘淼：坚定信心 五力并举 价值跃升 携手推动中国白酒高质量发展
+数据库中已存在相同title,跳过
+title: T9重磅 | 曾从钦：以长期价值主义引领白酒产业穿越周期
+数据库中已存在相同title,跳过
+title: T9重磅|梁金辉：信心的力量 坚守的力量 奋进的力量
+数据库中已存在相同title,跳过
+title: T9重磅 | 丁雄军：以“美学”实践推动中国白酒可持续发展
+数据库中已存在相同title,跳过
+title: T9重磅 | 宋书玉：树信心 固本源 提价值
+数据库中已存在相同title,跳过
+title: T9重磅 | 树信心 固本源 提价值——“第十三届中国白酒T9峰会”在山西太原隆重举行
+数据库中已存在相同title,跳过
+title: 习酒集团应邀参加第十三届中国白酒T9峰会
+数据库中已存在相同title,跳过
+title: 华西证券，被暂停保荐业务资格6个月
+数据库中已存在相同title,跳过
+title: 视频|董少鹏解读“新国九条”：中国股市重新回到春天
+数据库中已存在相同title,跳过
+title: 英美对俄罗斯金属实施制裁，限制铜、铝、镍交易
+数据库中已存在相同title,跳过
+title: 傅聪候任中国常驻联合国代表
+数据库中已存在相同title,跳过
+title: 中国白酒T9峰会丨古井：相信相信的力量 坚持坚守的力量 激发奋进的力量
+数据库中已存在相同title,跳过
+title: 全球恐慌！拜登警告伊朗，美股杀跌，黄金、白银疯狂跳水！
+数据库中已存在相同title,跳过
+title: 中国银河证券：新“国九条”为新时期资本市场高质量发展指明方向
+数据库中已存在相同title,跳过
+title: 证监会：终于对中信证券立案，一切都会来的，只是时间的早晚
+数据库中已存在相同title,跳过
+title: 达刚控股发生了什么？两名董事对所有议案投出反对票，业绩连亏两年
+数据库中已存在相同title,跳过
+title: 朔尔茨将访华！一文看懂豪华代表团成员有哪些
+数据库中已存在相同title,跳过
+已爬取20条新闻
+title: 一骑绝尘，国际金价突破2400美元大关，A股贵金属板块全线暴涨，后市如何演绎？
+数据库中已存在相同title,跳过
+title: 沪深北交易所就业务规则公开征求意见 涉及提高上市条件、严格退市标准
+数据库中已存在相同title,跳过
+爬取结束， 共爬取22条新闻！
+Sat 13 Apr 2024 01:34:26 PM CST
+准备爬取50条新闻
+已爬取20条新闻
+title: 重大突破，国产高算力光芯片“太极”问世！产业应用潜力巨大，机构扎堆看好5只概念股
+数据库中已存在相同title,跳过
+title: 手机输入耶路撒冷后提示巴勒斯坦国旗，苹果公司承诺修正
+数据库中已存在相同title,跳过
+title: 耶鲁大学数字伦理中心创始主任Luciano Floridi：用对话构建人工智能合作前景
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|曾鸣：不应再把中国公司简单看作低成本竞争
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|曾鸣：这种工作将在未来几年被AI取代
+数据库中已存在相同title,跳过
+title: 如何做好金融五篇大文章？屠光绍：更重要的是整个金融体系要转型和改革创新
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|美前财长萨默斯：中美在AI、环境保护领域应加强合作
+数据库中已存在相同title,跳过
+title: 人民币怎么走向国际？屠光绍这样说
+数据库中已存在相同title,跳过
+title: 比特币一度跌超7% 7.8亿美元看涨加密货币押注遭清算
+数据库中已存在相同title,跳过
+title: 这家人寿保险转让65%股权？背后四家股东隐现
+数据库中已存在相同title,跳过
+title: 暂停保荐资格6个月，火速回应！
+数据库中已存在相同title,跳过
+title: 屠光绍：高水平金融开放是构建新发展格局和推动高质量发展的关键支撑
+数据库中已存在相同title,跳过
+title: 外媒：波音股价遭遇2018年以来最长连跌，安全问题引发市场忧虑
+数据库中已存在相同title,跳过
+title: 亚马逊高管驳斥机器人抢工作说法，称其为“神话”
+数据库中已存在相同title,跳过
+title: 刚过去的一周，海外市场凌乱了
+数据库中已存在相同title,跳过
+title: 欧洲央行管委再放鸽：有望在6月降息
+数据库中已存在相同title,跳过
+title: 英美对俄罗斯金属实施制裁，限制铜、铝、镍交易
+数据库中已存在相同title,跳过
+title: 对话金域医学梁耀铭：高质量发展时期，企业要脚踏实地专注专业不断创新
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|金域医学梁耀铭：科技向善，打开中国医检技术创新发展的广阔空间
+数据库中已存在相同title,跳过
+title: 一图看懂：交易所规则新变化将有哪些
+数据库中已存在相同title,跳过
+title: 央行发布最新金融数据！专家解读来了
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|高途陈向东：困境是战略上取得成功的关键时刻
+数据库中已存在相同title,跳过
+爬取结束， 共爬取28条新闻！
+Sat 13 Apr 2024 02:45:55 PM CST
+NewsClassifier initializing!
+Loading data...
+Vocab size: 4762
+0it [00:00, ?it/s]2420it [00:00, 24192.99it/s]5079it [00:00, 25600.33it/s]7640it [00:00, 24926.15it/s]10253it [00:00, 25393.22it/s]12903it [00:00, 25786.73it/s]15484it [00:00, 21517.09it/s]18192it [00:00, 23111.84it/s]20789it [00:00, 23940.94it/s]23548it [00:00, 25009.12it/s]26284it [00:01, 25703.02it/s]28960it [00:01, 25870.04it/s]31643it [00:01, 26154.01it/s]34305it [00:01, 26290.08it/s]36956it [00:01, 26354.83it/s]39602it [00:01, 20407.64it/s]42075it [00:01, 21479.70it/s]44783it [00:01, 22943.72it/s]47283it [00:01, 23502.93it/s]50069it [00:02, 24720.40it/s]52752it [00:02, 25322.40it/s]55532it [00:02, 26039.06it/s]58181it [00:02, 26068.99it/s]60820it [00:02, 17952.67it/s]63561it [00:02, 20067.39it/s]66217it [00:02, 21638.68it/s]68876it [00:02, 22910.91it/s]71517it [00:03, 23849.95it/s]74132it [00:03, 24487.07it/s]76906it [00:03, 25400.66it/s]79607it [00:03, 25862.44it/s]82255it [00:03, 25955.79it/s]84894it [00:03, 17406.80it/s]87631it [00:03, 19583.74it/s]90167it [00:03, 20957.28it/s]92812it [00:03, 22349.65it/s]95629it [00:04, 23896.46it/s]98494it [00:04, 25203.78it/s]101270it [00:04, 25923.26it/s]104019it [00:04, 26373.19it/s]106729it [00:04, 26582.98it/s]109439it [00:04, 26181.04it/s]112094it [00:04, 25765.07it/s]114698it [00:05, 15368.24it/s]117036it [00:05, 16949.14it/s]119895it [00:05, 19508.97it/s]122641it [00:05, 21408.64it/s]125361it [00:05, 22882.25it/s]128158it [00:05, 24237.83it/s]130780it [00:05, 24368.26it/s]133388it [00:05, 24845.82it/s]135974it [00:05, 25108.24it/s]138557it [00:05, 24013.49it/s]141178it [00:06, 24631.48it/s]143700it [00:06, 24798.73it/s]146443it [00:06, 25562.92it/s]149200it [00:06, 26148.16it/s]151834it [00:06, 14084.71it/s]154596it [00:06, 16586.00it/s]156857it [00:06, 17192.74it/s]159601it [00:07, 19480.30it/s]162191it [00:07, 21031.55it/s]164964it [00:07, 22751.17it/s]167725it [00:07, 24048.19it/s]170491it [00:07, 25048.63it/s]173135it [00:07, 25441.53it/s]175779it [00:07, 25695.75it/s]178499it [00:07, 26132.98it/s]180000it [00:07, 22970.31it/s]
+0it [00:00, ?it/s]2651it [00:00, 26502.57it/s]5429it [00:00, 27249.23it/s]8285it [00:00, 27844.22it/s]10000it [00:00, 27704.01it/s]
+0it [00:00, ?it/s]2901it [00:00, 29007.81it/s]5829it [00:00, 29164.58it/s]8746it [00:00, 11767.64it/s]10000it [00:00, 15030.00it/s]Sat 13 Apr 2024 02:47:02 PM CST
+NewsClassifier initializing!
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 28, in <module>
+    classifier = NewsClassifier()
+  File "/root/sinaCrawler/eval.py", line 26, in __init__
+    self.config = x.Config(self.dataset, self.embedding)
+  File "/root/sinaCrawler/models/FastText.py", line 16, in __init__
+    self.class_list = [x.strip() for x in open(
+FileNotFoundError: [Errno 2] No such file or directory: 'THUCNews/data/class.txt'
+
+Finished!
+Time usage: 0:00:09
+准备爬取50条新闻
+已爬取20条新闻
+title: 澳航临时调整珀斯飞伦敦航线 避开伊朗空域
+数据库中已存在相同title,跳过
+title: 泸州老窖刘淼：加快推动白酒产业数字化转型，成为中国白酒构建新质生产力的必修课
+数据库中已存在相同title,跳过
+title: 泸州老窖刘淼：白酒企业抓科技就是抓发展，谋创新就是谋未来
+数据库中已存在相同title,跳过
+title: 汾酒袁清茂：消费降级不完全对，消费者期望以较低的价格，维持过去的高品质生活
+数据库中已存在相同title,跳过
+title: 汾酒袁清茂：未来十年白酒消费量可能还会持续下降，酿更好的酒、储更老的酒、售更美的酒才有未来
+数据库中已存在相同title,跳过
+title: 汾酒袁清茂：这两大法律，给中国酒业带来史无前例的需求侧大变局
+数据库中已存在相同title,跳过
+title: 洋河张联东：老酒市场真假难分、缺乏统一标准，要让消费者明明白白消费年份酒
+数据库中已存在相同title,跳过
+title: 洋河张联东：“不是买不起而是**更有性价比”成流行语，说明高性价比白酒大有可为
+数据库中已存在相同title,跳过
+title: 洋河张联东：龙头酒企始终挺立潮头，中国白酒不仅“能打”更能“抗击打”
+数据库中已存在相同title,跳过
+title: 洋河张联东：白酒产业向“优势产区、头部企业、名酒品牌”集中的趋势进一步显现
+数据库中已存在相同title,跳过
+title: 五粮液曾从钦：全面提升中国白酒“含绿量”、降低“含碳量”
+数据库中已存在相同title,跳过
+title: 五粮液曾从钦：白酒产业发展的底层逻辑没有改变，面临一系列结构性增长机会
+数据库中已存在相同title,跳过
+title: 五粮液曾从钦：白酒产业调整进入深水区，强集中、强分化、强挤压走势更加明显
+数据库中已存在相同title,跳过
+title: 茅台丁雄军：早上喝酒增强食欲、中午喝酒助力干活、晚上喝酒助眠休息
+数据库中已存在相同title,跳过
+title: 茅台丁雄军：要围绕线上和线下，打造多元化白酒品饮场景
+数据库中已存在相同title,跳过
+title: 茅台丁雄军：大力倡导以酒为题材，推出更多的诗歌、音乐、影视等文化作品
+数据库中已存在相同title,跳过
+title: 茅台丁雄军谈酱香拿铁等产品：让年轻消费者从第一口茅台体验，到逐渐爱上茅台味道
+数据库中已存在相同title,跳过
+title: 茅台丁雄军：白酒行业出现消费“升级”和“降级”并存特点，消费者更加追求性价比
+数据库中已存在相同title,跳过
+title: 马斯克将访问印度并与莫迪会面 引发特斯拉将在印度投资建厂的猜测
+数据库中已存在相同title,跳过
+title: 屠光绍：高水平金融开放需要特别关注“五个重点”
+数据库中已存在相同title,跳过
+title: 重大突破，国产高算力光芯片“太极”问世！产业应用潜力巨大，机构扎堆看好5只概念股
+数据库中已存在相同title,跳过
+title: 屠光绍：下一步高水平金融开放需要从全面系统的开放着眼，需要有系统设计、协同推进和考虑综合效益
+数据库中已存在相同title,跳过
+title: 手机输入耶路撒冷后提示巴勒斯坦国旗，苹果公司承诺修正
+数据库中已存在相同title,跳过
+title: 耶鲁大学数字伦理中心创始主任Luciano Floridi：用对话构建人工智能合作前景
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|曾鸣：不应再把中国公司简单看作低成本竞争
+数据库中已存在相同title,跳过
+title: 哈佛中国论坛|曾鸣：这种工作将在未来几年被AI取代
+数据库中已存在相同title,跳过
+title: 如何做好金融五篇大文章？屠光绍：更重要的是整个金融体系要转型和改革创新
+数据库中已存在相同title,跳过
+爬取结束， 共爬取23条新闻！
+Sat 13 Apr 2024 03:47:01 PM CST
+NewsClassifier initializing!
+Traceback (most recent call last):
+  File "/root/sinaCrawler/sinaCrawler.py", line 26, in <module>
+    classifier = NewsClassifier()
+  File "/root/sinaCrawler/eval.py", line 26, in __init__
+    self.config = x.Config(self.dataset, self.embedding)
+  File "/root/sinaCrawler/models/FastText.py", line 16, in __init__
+    self.class_list = [x.strip() for x in open(
+FileNotFoundError: [Errno 2] No such file or directory: 'THUCNews/data/class.txt'
