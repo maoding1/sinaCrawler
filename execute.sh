@@ -9,6 +9,8 @@
 EOF
 work_dir="/root/sinaCrawler"
 
+cd ${work_dir}
+
 echo $(date) >> ${work_dir}/log.txt  
 
 /usr/bin/python3 ${work_dir}/sinaCrawler.py >> ${work_dir}/log.txt 2>&1

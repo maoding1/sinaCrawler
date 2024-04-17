@@ -1,8 +1,8 @@
 database:
-  host: 111.229.200.183
-  user: root
-  password: 'Sunguyi123'
-  databaseName: prism
+  host: xxx
+  user: xxx
+  password: xxx
+  databaseName: xxx
 
 
 driver_path: './msedgedriver.exe'

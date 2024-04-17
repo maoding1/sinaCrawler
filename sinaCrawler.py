@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.edge.options import Options
+from relationship_extraction import get_response
 import time
 import traceback
 import pymysql
@@ -16,8 +17,8 @@ url = 'https://news.sina.com.cn/roll/'
 configPath = '/root/sinaCrawler/Config.yaml'
 page_num = 1
 
-insert_sql = f"""INSERT INTO `news`(`title`, `time`, `source`, `text`, `category`)
-                        VALUES (%s,%s,%s,%s,%s)"""
+insert_sql = f"""INSERT INTO `news`(`title`, `time`, `source`, `text`, `category`, `relationship`)
+                        VALUES (%s,%s,%s,%s,%s,%s)"""
 
 news_li_xpath = "/html/body/div[1]/div[1]/div[2]/div[3]/div[2]/div//li"
 title_xpath = "./span[2]/a"
@@ -47,6 +48,7 @@ def get_detailed_page(url, cursor, db):
         driver.get(url)
     except TimeoutException:
         print("timeout, skipping")
+        return False
     try:
         title = driver.find_element(By.CLASS_NAME, 'main-title').text
         time = driver.find_element(By.CLASS_NAME, 'date').text
@@ -56,19 +58,21 @@ def get_detailed_page(url, cursor, db):
             source = driver.find_element(By.CLASS_NAME, 'source').text
         text = driver.find_element(By.CLASS_NAME, 'article').text
         category = classifier.classify(title)
+        if (len(text) > 1500):
+            relationship = get_response(text[:1500])
+        else:
+            relationship = get_response(text)
         try:
-            cursor.execute(insert_sql, (title, time, source, text, category))
+            cursor.execute(insert_sql, (title, time, source, text, category, relationship))
+            db.commit()
         except pymysql.IntegrityError:
             print("title:", title)
             print("数据库中已存在相同title,跳过")
+            db.rollback()
             return False
     except:
         traceback.print_exc()
         sys.stderr.write(f"wrong url , please check:{url}\n")
-    try:
-        db.commit()
-    except:
-        db.rollback()
     return True
 
 if __name__ == '__main__':
